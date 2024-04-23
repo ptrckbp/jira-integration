@@ -1,5 +1,5 @@
 import { addCommentToIssue } from './add-comment-to-issue'
-import { findAllUsers } from './find-all-users'
+// import { findAllUsers } from './find-all-users'
 import { findUser } from './find-user'
 import { newIssue } from './new-issue'
 import { updateIssue } from './update-issue'
@@ -9,5 +9,5 @@ export default {
   newIssue,
   updateIssue,
   addCommentToIssue,
-  findAllUsers,
+  // findAllUsers,
 }

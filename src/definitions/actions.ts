@@ -83,5 +83,5 @@ export const actions = {
   newIssue,
   updateIssue,
   addCommentToIssue,
-  findAllUsers,
+  // findAllUsers,
 }
