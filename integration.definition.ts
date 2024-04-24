@@ -10,9 +10,9 @@ import {
 
 export default new IntegrationDefinition({
   name: "plus/jira",
-  title: "Jira actions",
+  title: "Jira",
   description: "This integration allows you to manipulate Jira issues and users.",
-  version: '0.2.2',
+  version: '0.2.3',
   readme: 'readme.md',
   icon: 'icon.svg',
   configuration,
